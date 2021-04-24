@@ -12,3 +12,5 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Inside `blog\views.py`, created a function to receive and response to an http request.
 1. Created a new file `blogs\urls.py`, which is almost similar to the initial `urls.py`.
 1. Included `blogs.urls` in the path of initial `urls.py`.
+1. Created a new function in `blog\views.py` to handle the *about page* of blog.
+1. Added that path in `blog\urls.py`.
