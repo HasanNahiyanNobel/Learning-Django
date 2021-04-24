@@ -28,3 +28,6 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Created `.html` pages in `blog\templates\blog`.
 1. In main `settings.py` added `blog.apps.BlogConfig` as and installed app.
 1. In `blog\views.py` rendered html pages instead of direct html response string.
+1. Created some dummy data in `blog\views`. The data is an array of json objects, if I'm not mistaken.
+1. Created a *dictionary* named `context` in `home(request)` function of `blog\views`.
+1. Did some magical loop codes in `home.html`. Don't know what they are called actually.
