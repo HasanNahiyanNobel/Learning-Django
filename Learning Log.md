@@ -56,3 +56,4 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Then ran `py manage.py makemigrations` and `py manage.py migrate` consecutively for reasons which I don't fully understand.
 1. *Saw* how he was using shell to query stuffs. Added a post with him.
 1. Formatted date style.
+1. Now comes the **crucial part**. Registered the *Post* model (which was created in shell) in `blogs\admin.py`, so that it would be shown in Django admin panel. And it shows, and it feels awesome again! 
