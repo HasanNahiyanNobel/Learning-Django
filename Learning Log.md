@@ -40,3 +40,11 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Loaded and linked that css in base html.
 1. Added custom code to `home.html`.
 1. Soft-coded url route in base html. This feels good!
+
+
+
+## 4. Admin Page
+1. `py manage.py makemigrations`: Creates the database table, or has something to do with it.
+1. `py manage.py migrate`: After the previous command, we have to run this. ¯\\\_(ツ)_/¯
+1. Only then can we use `py manage.py createsuperuser` to create a...super user, of course.
+1. Learnt to work with admin page of Django. This feels awesome!
