@@ -19,3 +19,10 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Created a new function in `blog\views.py` to handle the *about page* of blog.
 1. Added that path in `blog\urls.py`.
 1. Learnt to change the path patterns in main `urls.py` to change how the site navigates.
+
+
+
+## 3. Templates
+1. Created a subdirectory `templates` in `blog` directory (which, by the way, we are also calling our *blog app*).
+1. Created sub-subdirectory `blog` in `blog\templates`. This redundancy they say is just a Django convention.
+1. Created `.html` pages in `blog\templates\blog`.
