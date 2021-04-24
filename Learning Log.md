@@ -32,3 +32,4 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Created a *dictionary* named `context` in `home(request)` function of `blog\views`.
 1. Did some magical loop codes in `home.html`. Don't know what they are called actually.
 1. Used if-else condition to change the title of html pages!
+1. Added a base html page.
