@@ -55,3 +55,4 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Created a *Post* class in `models.py`.
 1. Then ran `py manage.py makemigrations` and `py manage.py migrate` consecutively for reasons which I don't fully understand.
 1. *Saw* how he was using shell to query stuffs. Added a post with him.
+1. Formatted date style.
