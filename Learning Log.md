@@ -2,9 +2,13 @@
 
 Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) tutorial.
 
+
+
 ## 1. Getting Started
 1. `django-admin startproject Learning_Django`: Created the project directory, and necessary files.
 1. `py manage.py runserver`: Started the server. PyCharm also has a *Django Server* configuration which lets to specify a host and a port.
+
+
 
 ## 2. Applications and Routes
 1. In Django, a single project can have multiple apps.
@@ -14,3 +18,4 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Included `blogs.urls` in the path of initial `urls.py`.
 1. Created a new function in `blog\views.py` to handle the *about page* of blog.
 1. Added that path in `blog\urls.py`.
+1. Learnt to change the path patterns in main `urls.py` to change how the site navigates.
