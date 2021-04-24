@@ -33,3 +33,4 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Did some magical loop codes in `home.html`. Don't know what they are called actually.
 1. Used if-else condition to change the title of html pages!
 1. Added a base html page.
+1. Added Bootstrap css and js to that base html.
