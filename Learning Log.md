@@ -38,3 +38,4 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Created `blog\static`, then `blog\static\blog`, as per convention.
 1. Added sample `main.css` file in that static directory.
 1. Loaded and linked that css in base html.
+1. Added custom code to `home.html`.
