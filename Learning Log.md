@@ -26,3 +26,4 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Created a subdirectory `templates` in `blog` directory (which, by the way, we are also calling our *blog app*).
 1. Created sub-subdirectory `blog` in `blog\templates`. This redundancy they say is just a Django convention.
 1. Created `.html` pages in `blog\templates\blog`.
+1. In main `settings.py` added `blog.apps.BlogConfig` as and installed app.
