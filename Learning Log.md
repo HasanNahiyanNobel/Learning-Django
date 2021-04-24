@@ -48,3 +48,10 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. `py manage.py migrate`: After the previous command, we have to run this. ¯\\\_(ツ)_/¯
 1. Only then can we use `py manage.py createsuperuser` to create a...super user, of course.
 1. Learnt to work with admin page of Django. This feels awesome!
+
+
+
+## 5. Database and Migrations
+1. Created a *Post* class in `models.py`.
+1. Then ran `py manage.py makemigrations` and `py manage.py migrate` consecutively for reasons which I don't fully understand.
+1. *Saw* how he was using shell to query stuffs. Added a post with him.
