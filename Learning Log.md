@@ -76,3 +76,4 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Created login and logout views, and pages.
 1. Added `LOGIN_REDIRECT_URL`.
 1. Updated login-logout stuffs...
+1. Added profile page.
