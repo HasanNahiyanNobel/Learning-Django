@@ -26,7 +26,7 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Created a subdirectory `templates` in `blog` directory (which, by the way, we are also calling our *blog app*).
 1. Created sub-subdirectory `blog` in `blog\templates`. This redundancy they say is just a Django convention.
 1. Created `.html` pages in `blog\templates\blog`.
-1. In main `settings.py` added `blog.apps.BlogConfig` as and installed app.
+1. In main `settings.py` registered (added) `blog.apps.BlogConfig` as and installed app. **This is better to do immediately after creating a new app.**
 1. In `blog\views.py` rendered html pages instead of direct html response string.
 1. Created some dummy data in `blog\views`. The data is an array of json objects, if I'm not mistaken.
 1. Created a *dictionary* named `context` in `home(request)` function of `blog\views`.
@@ -56,4 +56,13 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Then ran `py manage.py makemigrations` and `py manage.py migrate` consecutively for reasons which I don't fully understand.
 1. *Saw* how he was using shell to query stuffs. Added a post with him.
 1. Formatted date style.
-1. Now comes the **crucial part**. Registered the *Post* model (which was created in shell) in `blogs\admin.py`, so that it would be shown in Django admin panel. And it shows, and it feels awesome again! 
+1. Now comes the **crucial part**. Registered the *Post* model (which was created in shell) in `blogs\admin.py`, so that it would be shown in Django admin panel. And it shows, and it feels awesome again!
+
+
+
+## 6. User Registration
+1. Created a new app using `py manage.py startapp users`.
+1. Registered it in `settings.py`.
+1. Django provides its own user registration form! Wow!
+1. Added a `register.html` page.
+1. Updated `urlpatterns` in a different way.
