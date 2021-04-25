@@ -69,3 +69,8 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Responded to POSTs in registration form.
 1. Created `forms.py` to customize registration form.
 1. Used `django-crispy-forms` package to decorate the registration form.
+
+
+
+## 7. Login and Logout System
+1. Created login and logout views, and pages.
