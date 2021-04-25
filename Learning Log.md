@@ -67,4 +67,5 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Added a `register.html` page.
 1. Updated `urlpatterns` in a different way.
 1. Responded to POSTs in registration form.
-1. Created `forms.py` to customize registration form
+1. Created `forms.py` to customize registration form.
+1. Used `django-crispy-forms` package to decorate the registration form.
