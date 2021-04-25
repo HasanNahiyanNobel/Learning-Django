@@ -94,3 +94,4 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 
 ## 9. Update User Profile
 1. Nothing made sense here, but everything works with a beauty.
+1. Profile picture shown in home page.
