@@ -78,3 +78,11 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Updated login-logout stuffs...
 1. Added profile page.
 1. Required login to view profile page.
+
+
+
+## 8. User Profile and Picture
+1. Created Profile model in *users* app.
+1. Ran `py manage.py makemigrations` and `py manage.py migrate`.
+1. **Registered** this model in `users\admin.py`.
+1. **Just found out that Python Console within Pycharm is *really* beautiful to handle Django Shell commands!**
