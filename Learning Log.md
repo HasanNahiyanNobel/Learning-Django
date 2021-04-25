@@ -87,3 +87,4 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. **Registered** this model in `users\admin.py`.
 1. **Just found out that Python Console within Pycharm is *really* beautiful to handle Django Shell commands!**
 1. Added custom `MEDIA_ROOT` and `MEDIA_URL`.
+1. Reorganized profile page.
