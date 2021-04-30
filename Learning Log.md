@@ -1,6 +1,6 @@
 # Learning Log
 
-Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) tutorial.
+Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) tutorial of Corey Schafer.
 
 
 
@@ -100,3 +100,4 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 
 ## 10. Create, Update, and Delete Posts
 1. Did some stuffs which I don't understand and changed the ordering of posts with a magical command.
+1. Added functionality to view individual posts.
