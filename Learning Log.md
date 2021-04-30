@@ -104,3 +104,4 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Post links in home page now take us to the destination.
 1. Added functionality to create a post, and then redirect user to that post.
 1. Login is now required to go to the creat post page.
+1. Added functionality to update post—with a massive flaw—anyone can edit anybody's post! :3
