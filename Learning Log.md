@@ -113,3 +113,4 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 
 ## 11. Pagination
 1. Added basic pagination where each page has 2 posts.
+1. Added buttons to navigate between pages.
