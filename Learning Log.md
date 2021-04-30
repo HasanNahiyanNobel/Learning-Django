@@ -95,3 +95,8 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 ## 9. Update User Profile
 1. Nothing made sense here, but everything works with a beauty.
 1. Profile picture shown in home page.
+
+
+
+## 10. Create, Update, and Delete Posts
+1. Did some stuffs which I don't understand and changed the ordering of posts with a magical command.
