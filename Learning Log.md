@@ -107,3 +107,4 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Added functionality to update post—with a massive flaw—anyone can edit anybody's post! :3
 1. None can update others' post now!
 1. Added functionality to delete post. Django feels real good now.
+1. Now user can find create, update and delete button where necessary.
