@@ -102,3 +102,4 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Did some stuffs which I don't understand and changed the ordering of posts with a magical command.
 1. Added functionality to view individual posts.
 1. Post links in home page now take us to the destination.
+1. Added functionality to create a post, and then redirect user to that post.
