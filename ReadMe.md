@@ -121,3 +121,4 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 ## 12. Email and Password Reset
 1. Added my personal email as host.
 1. Added functionality to reset password.
+1. Added link to go to the reset page.
