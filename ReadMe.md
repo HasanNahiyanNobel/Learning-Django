@@ -115,3 +115,9 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 1. Added basic pagination where each page has 2 posts.
 1. Added buttons to navigate between pages.
 1. Now posts by a specific user can be viewed.
+
+
+
+## 12. Email and Password Reset
+1. Added my personal email as host.
+1. Added functionality to reset password.
