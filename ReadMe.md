@@ -1,3 +1,45 @@
+# Algorithms
+
+## To Create a Django Project
+1. Create a new project using PyCharm
+2. Encrypt the `settings.py` file using transcrypt
+3. Add the directory `name_of_the_project/__pycache__` along with others to .gitignore
+4. Make an initial commit
+
+
+
+## To Create a New App
+1. `py manage.py startapp name_of_the_app`
+2. Add the app in `INSTALLED_APPS` list of `settings.py`
+3. Include path of the app in main `urls.py`
+4. Create the directory `name_of_the_app/templates/name_of_the_app` for templates
+5. Create views in `views.py`
+6. Add necessary paths in that app's `urls.py`
+
+
+
+## To Create the first SuperUser
+1. `py manage.py makemigrations`
+2. `py manage.py migrate`
+3. `py manage.py createsuperuser`
+
+
+
+## To Create Models
+1. Create class in `models.py`
+2. Run `py manage.py makemigrations`
+3. `py manage.py migrate`
+4. Register the model in `admin.py`
+
+
+
+## To Run
+1. Dev Server: `py manage.py runserver`
+2. Django Python Shell: `py manage.py shell`
+
+
+
+
 # Learning Log
 
 Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) tutorial of Corey Schafer.
@@ -46,7 +88,7 @@ Learning from [this](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03T
 ## 4. Admin Page
 1. `py manage.py makemigrations`: Creates the database table, or has something to do with it.
 1. `py manage.py migrate`: After the previous command, we have to run this. ¯\\\_(ツ)_/¯
-1. Only then can we use `py manage.py createsuperuser` to create a...super user, of course.
+1. Only then can we use `py manage.py createsuperuser` to create a...superuser, of course.
 1. Learnt to work with admin page of Django. This feels awesome!
 
 
